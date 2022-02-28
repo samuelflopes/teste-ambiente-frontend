@@ -1,0 +1,10 @@
+Após clonar o projeto, utilizar os seguintes comandos para inicializar a aplicação e começar o desenvolvimento da interface gráfica.
+
+npm install
+npm run build
+npm run migrate
+
+
+
+Faz-se necessário ter o node instalado na máquina.
+"node": "16.13.1"
